@@ -1166,20 +1166,20 @@ body {
 .cover-front:nth-child(1) h1 {
   font-family: "Lora", serif;
   font-size: 45px;
-  color: #134a78;
+  color: #FFFFFF;
   margin-top: 35px;
   text-transform: uppercase;
 }
 .cover-front:nth-child(1) h2 {
   font-family: "EB Garamond", serif;
   font-size: 24px;
-  color: #134a78;
+  color: #FFFFFF;
   position: relative;
   top: 40%;
 }
 .cover-front:nth-child(1) .hat {
   font-size: 100px;
-  color: #134a78;
+  color: #FFFFFF;
   position: relative;
   top: 3%;
 }
